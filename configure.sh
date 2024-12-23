@@ -1,3 +1,3 @@
 #!/bin/sh
 
-pre-commit install -f -t post-commit
+pre-commit install -f -t post-checkout
